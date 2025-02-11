@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:label="B2B  "
+        android:icon="@mipmap/ic_launcher">
+        <!-- Aquí no debe haber ningún minSdkVersion, ya que se configura en build.gradle -->
+    </application>
+</manifest>
+
